@@ -1,6 +1,6 @@
 {
-  "name": "wanderline-luxury-editorial",
-  "version": "2.0.0",
+  "name": "wanderline-v3",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,7 +12,9 @@
     "next": "^15.5.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "lucide-react": "^0.468.0"
+    "lucide-react": "^0.468.0",
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.49.0"
   },
   "devDependencies": {
     "typescript": "^5.7.0",
